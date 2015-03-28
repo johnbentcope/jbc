@@ -7,6 +7,20 @@ html {
 	min-width: 450px;
         height: 200px;
         margin: 15% auto;
+	font-family: 'Questrial', sans-serif;
+}
+
+h2 {
+	color: #CCC;
+	font-size: 1.6em;
+	margin-top:20px;
+	margin-bottom:15px;
+}
+
+p {
+	color: #AAA;
+	font-size: 0.7em;
+	line-height: 0px;
 }
 
 .navChild:first-child {
@@ -17,4 +31,5 @@ html {
 	width: 200px;
 	height: 200px;
 	float: right;
+	text-align: center;
 }
